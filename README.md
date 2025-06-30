@@ -1,9 +1,11 @@
 # Loan Default Prediction Using Neural Networks
 
 This project demonstrates how to predict loan default using an Artificial Neural Network (ANN) implemented in Python with TensorFlow and Keras.
+
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)](https://keras.io/)
+
 ## 📁 Project Structure
 
 - `loan_default_prediction.ipynb` – Jupyter Notebook with model training, evaluation, and visualization.
